@@ -1,0 +1,51 @@
+body {
+    background-color: #666666;
+    color: black;
+    text-shadow: none;
+}
+
+#logo {
+    width: 90px;
+}
+
+#title {
+    width: 160px;
+}
+
+.logo, .left {
+    background-color: #AAAAAA;
+}
+
+.left {
+    padding: 10px 20px;
+    height: 50vw;
+}
+
+.left .btn {
+    width: 100%;
+}
+
+.top {
+    background-color: #CCCCCC;
+}
+
+.right {
+    background-color: white;
+}
+
+.footer {
+    font-size: 13px;
+    padding: 0.5vw;
+}
+
+.btn {
+    width: 200px;
+}
+
+.logout {
+    margin-top: 250px;
+}
+
+.machdetails h6 {
+    font-size: 14px;
+}
